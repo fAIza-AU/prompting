@@ -32,4 +32,4 @@ if __name__ == "__main__":
     step2output=bulletpoints(step1output)
     print("\n--- Step 2: bullet Points Extracted ---")
     print(step2output)
-    
+     
